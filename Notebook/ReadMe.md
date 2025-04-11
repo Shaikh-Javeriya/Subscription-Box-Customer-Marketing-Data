@@ -52,7 +52,7 @@ A version of the plot with just cluster centers, then another with all data poin
 
 Applied log transformation to smooth out the skew in spending
 
-<p align="center"> <img src="path-to-3d-plot.png" width="600"/> </p>
+<p align="center"> <img src="https://github.com/Shaikh-Javeriya/Subscription-Box-Customer-Marketing-Data/blob/main/Images/3dplot_centeroids.png" width="600"/> </p>
 These visuals helped bring the segmentation to life and made it easier to spot trends.
 
 🔎 Key Takeaways
