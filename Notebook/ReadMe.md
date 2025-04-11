@@ -30,7 +30,7 @@ Ran K-Means and grouped the customers into clusters based on their RFM values
 After clustering, I analyzed the average RFM scores for each group and assigned them intuitive labels:
 
 Cluster	Recency	Frequency	MntTotal	Segment
- 0.	   66.3	   22.5	     1546.2	  🟢 Big Spenders
+ 0.    66.3	   22.5	     1546.2	  🟢 Big Spenders
  1.    74.5	    7.8	       81.9	  🟠 Lost Customers
  2.	   19.1	   21.8	      985.5	  🟣 Champions
  3.	   69.6	   19.9	      662.7	  🔵 Potential Loyalists
